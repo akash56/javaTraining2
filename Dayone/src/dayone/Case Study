@@ -1,0 +1,24 @@
+Assignment One
+1 ans- Student, Lecturer
+2 ans - pay semester fees()
+3 ans- Student, lecturer, courses
+4 ans- Details about students
+
+Assignment Two
+1 ans- graduate, post graduate,day scholar, host elite
+Marks and grade needs to hidden and other type such as graduate or post graduate can be open
+2- ans We can define a single method though there is different types of student and we can differentiate with the parameter.
+3-ans One method to make it simple
+4- ans We can have student class with identity name state as whether post graduate or graduate and we can have method of payingfees() grade()
+
+Assignment three
+1 object
+2 class
+3 Identity
+4 behavior
+5 Identity
+6 behavior
+7 objects
+8 behavior
+9 behavior
+
